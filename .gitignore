@@ -1,0 +1,25 @@
+# PlatformIO build output and downloaded libraries
+.pio
+
+# VS Code files PlatformIO regenerates per machine
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
+
+# Python
+__pycache__/
+
+# Mascot renders: frames, previews and comparison sheets, all reproducible
+# with tools/character/animate.py
+tools/character/out/
+
+# Case reference material: the vendor's product photos and wiki page, and the
+# one-off scripts that measured them. Not ours to redistribute.
+case/ref/
+
+# tools/screenshot.py default output
+/screenshot.png
+
+# Working notes, not part of the published project
+/PROJECT.md
